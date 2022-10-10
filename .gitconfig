@@ -1,0 +1,7 @@
+[user]
+	name = Timur
+	email = timur.gromakov@yandex.ru
+[alias]
+	history = log
+[init]
+	defaultbranch = Dev
